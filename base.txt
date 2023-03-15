@@ -1,0 +1,584 @@
+index	questions
+Ch	General
+1.	What is a chromosome. Describe the "minimum criteria" for a chromosome.
+
+2.	 What is a genome? Importantly, the definition in Glossary is wrong!
+
+3.	Define "life form" according to Ringo, and name the 4 principal groups.
+
+4.	Define "organism" according to Ringo. Which minimum-set of components are they composed of?
+
+5.	Which are the tree main groups of organisms? What are the differences, and similarities?
+
+6.	How (is it believed) did life originate?
+
+7.	The genes of all (known) organisms are stored in DNA, but a popular theory says that the first forms of life had the genetic codes stored in RNA. Explain this theory and what it is based on (- how does it solve the hen/egg problem of genetic inheritance/enzymatic activity?). Explain explicitly why the genetic code in the first forms of life must have been stored in RNA, and why it couldn't have been stored in DNA or polypeptide.
+
+8.	 How are the three principal groups of organisms related? Based on which  data was this originally revealed?
+
+9.	 How did the mitochondrion and chloroplast evolve, and what are their tasks in the cell?
+
+10.	 What is (describe briefly): Virus, Plasmid, Transposon, Viroid, Virusoid, Prion?
+
+
+Ch 3
+
+1.	How do proteins bind to DNA through (i) non sequence-specific and (ii) sequence-specific binding?
+
+
+Ch 4	Some of the questions for this (and other) chapter are about approximate size and number. Thus, it is the approximate size that you should have a feeling for, especially in comparing different species. Thus, for example, you should know in which ballpark the size for eukaryotes, bacteria and viruses are. Because this tells you something about their respective genetics.
+
+1.	Define "genome". Importantly, the definition in Glossary is wrong!
+
+2.	Bacteria and archaea have essential chromosomes and, sometimes, plasmids. Describe the difference between essential chromosomes and plasmids.
+
+3.	What is a nucleoid? Describe it.
+
+4.	Describe the content of essential chromosomes of a typical bacteria and archaea: size/form/number, and mention some differences from the "typical case".
+
+5.	How large, approximately, are bacterial and archaeal genomes?
+
+6.	 Explain how the mm-long genome can fit into a bacterium.
+
+7.	In what sense are archaeal chromosomes (in contrast to bacteria) similar to the eukaryote chromosome?
+
+8.	 What's needed in linear chromosomes, in contrast to circular chromosomes? Describe this solution.
+
+9. 	Describe viral genomes.
+
+
+Ch 5
+
+1.	Describe the chromosome in mitosis.
+
+2.	In which cell cycle phase is the chromosome transcribed? How does it look in this phase?
+3.	Describe briefly (i) chromatin (ii) nucleosome.
+
+4.	Describe briefly euchromatin and heterochromatin.
+
+5.	Describe, without details, the structure of telomeres. What are their functions?
+
+6.	What are the functions of centromeres?
+
+7.	Explain what are the p and q arms on a chromosome.
+
+8.	In pictures of condensed chromosomes, they are striped, with a unique banding pattern for each chromosome. Why?
+
+
+
+Ch 6.	In this chapter (as well as other parts of the book) there's a lot of definitions, in this case of different kinds of DNA sequence. I expect you to give very exact answers to these questions, giving the precise definitions, to help you get rid of a lot of very common misunderstandings. But of course, you should explain the definitions with your own words, not copy the book word-by-word.
+
+
+1.	Name and decribe briefly the different types of functional sequence in the genome.
+
+2.	What is a gene (according to Ringo's definition)?
+
+3.	Describe the difference in proportion of functional/non-functional sequence among the three domains in the Tree of Life.
+
+4.	Give the approximate size span for eucaryote genomes. What is the principal reason for this variation?
+
+5.	Concerning copy number, there are three main types of DNA sequence. Describe these.
+
+6.	Describe briefly and approximately the copy number and size for genes encoding rRNA, tRNA, mRNA and "small" RNA.
+
+7.	Describe "small" RNAs, name a few and describe size and function.
+
+8.	Describe the encoding of polypeptides.
+
+9.	Describe briefly the different kinds of non-coding DNA.
+
+10.	Give the approximate number of Alu repeats in the human genome. How large proportion of the total genome is this?
+
+11.	Describe a tandem repeat region (tandem array). Name and describe the different size classes.
+
+
+
+Ch 8. 
+
+1.	Describe briefly the seven categories of posttransriptional RNA processing.
+
+2.	What is a spliceosome?
+
+3.	How is the precise position of splicing (the splice junctions) "defined".
+
+4.	What are Group I and II introns? Some are self splicing, what does this mean?
+
+5.	What is mRNA editing? Describe how it works and how it affects the polypeptide sequence in the final protein.
+
+
+
+Ch 10 
+
+1.	What is the approximate proportions in the cytoplasm of rRNA, tRNA, mRNA?
+
+2.	What is the reason for the relatively low proportion of mRNA?
+
+3.	How is mRNA degraded?
+
+4.	Where are most of the active genes situated, in euchromatin or heterochramin? Why?
+
+5.	What role does covalent modification of histones have in transcription?
+
+6.	The importance of mRNA regulation is exemplified by what happens to the two X-chromosomes in early development of females. Describe what happens, and why.
+
+7.	What are the functions (reasons) of methylation of DNA in somatic cells. What is the main function?
+
+
+Ch 11	The principles of the (almost) universal genetic code, and reading frame, should be clear to you.
+
+1.	Something new is perhaps translational shift? Explain what this is.
+
+2.	Describe the many ways in which the polypeptides/proteins, produced in translation, are post-processed and modified to give them their final structure and function.
+
+
+
+
+Ch	Extra chapter "Epigenetics"OBS! För att få hjälp att förstå epigenetik: läs också två första sidorna av texten "ExtraEpigenetikSelektion" under Files i Canvas!
+
+1.	 What is: a) an epigenetic trait? b) epigenetics? c) epigenome?
+
+2.	 In what sense are the genome and the epigenome similar and different, respectively?
+
+3.	 Which are the three major epigenetic mechanisms?
+
+4.	 Describe in detail the mechanism for epigenetic regulation by DNA methylation.
+
+5.	 ...specifically: what is a CpG island?
+
+6.	 ...specifically: how does methylation silence genes?
+
+7.	 Describe (not in detail) the mechanism for epigenetic regulation by chromatin configuration through histone modification.
+
+8.	 Describe briefly the mechanism for epigenetic regulation by microRNAs.
+
+9.	 What is imprinting? Describe in detail how it works and what its main reasons and effects are.
+
+10.	 ...specifically: describe DNA methylation in the germline and during fertilization.
+
+11.	 What kind of functions do most imprinted genes code for?
+
+12.	 Describe the possible epigenetic problems with IVF
+
+13.	 Describe the different types of environmental factors that affect the epigenome.
+
+14.	 Describe the epigenetic effects caused by the starvation of pregnant women in the Netherlands during World War 2.
+
+15.	 Describe the evidence for how stress induced epigenetic changes early in life can influence behavior later in life, and potentially in future generations, in mice and humans.
+
+
+
+
+Ch	Extra chapter "Emerging roles for RNA"
+
+1.	 What is the approximate proportions of the genome that encode proteins and that is transcribed into RNA, respectively?
+
+2.	 It has become clear that RNA has many functions, which are these? Explain why/how it can have so many functions.
+
+3.	 Explain about the "chicken or the egg" paradox and the RNA World Hypothesis, and give one major objection to this hypothesis.
+
+4.	 Describe prokaryotic small noncoding RNAs and their roles in gene regulation.
+
+5.	 Describe briefly the roles of the three types of eukaryotic small noncoding RNAs.
+
+6.	 Describe briefly eukaryotic long noncoding RNAs, and specifically their role in X chromosome inactivation in mammals.
+
+
+
+Ch 12. 	....What is a mutation? ...it is important this concept is totally clear! 
+
+1.	There is large difference in the frequency of mispairing of nucleotides at spontaneous base pairing, and after replication? What mechanisms explain this?
+
+2.	Should replication be totally error free? Explain why it has the error frequency it actually has!
+
+
+Ch 13
+
+1.	Describe briefly replication of eukaryote chromosomes.
+
+2.	What is the principal problem of replicating a linear chromosome completely out to the ends? 
+
+3.	Describe in detail how telomeres and telomerase work to circumvent this problem.
+
+4.	What happens, over time, with the chromosome ends in somatic animal cells?
+
+5.	What is gene amplification?
+
+
+Ch 14. 	Important chapter, since it is about mechanisms behind genome evolution! Especially, general recombination is the mechanism behind recombination during meiosis, and thus the mechanism behind genetic difference between parents and offspring. Give this chapter time, and sit and ponder upon mechanisms.
+
+1.	Which are the three principal types of recombination? Describe briefly.
+
+2.	Describe in detail, using a figure, the Aviemore model of general recombination.
+
+3.	 What is the difference in the end result if splices or patches are formed (i.e., what has happened to the chromosome on either side of the heteroduplex, after splicing and after patching)?
+
+4.	Recombination often give mismatched bases. Why does this happen, and where do these mismatched bases occur?
+
+5.	What happens after a while with these mismatches? Explain using a figure!
+
+6.	What is gene conversion? 
+
+7.	What happens in gene conversion if the heteroduplex contains an insertion or deletion?
+
+8.	 How large proportion of the recombinant sequences containing mismatches (i.e. heteroduplex molecules) goes through gene conversion?
+
+9.	What is unequal crossing-over? Explain using figure!
+
+10.	Describe briefly what is site-specific recombination. 
+
+11.	We wait with production of B-cell immunoglobulins until Ch.24. 
+
+12.	What is a transposon?
+
+13.	What are the three principal types of transposition?
+
+14.	Describe how non-replicative transposition works. In which different ways can it result in mutations?
+
+15.	How does retrotransposition work?
+
+
+Ch 15
+
+1.	Define "mutation".
+
+2.	 Which are the five types of micro mutation, name and describe them? Which one is most common? 
+
+3.	In what way can insertions and deletions give dramatic effects as mutations within a gene?
+
+4.	What is a duplication, and a tandem-duplication?
+
+5.	Describe the different kinds of micro mutations in five different parts of a gene that can occur, and all different consequences this leads to. Thus, how the type and place of mutations lead to different results of the mutation. 
+
+6.	 Describe and explain the cause of the following three types of substitutional mutation: mispaired bases, base modification and cross-linking.
+
+7.	Why does intrastrand-crosslinkning give more mutations than interstrand-crosslinkning? 
+
+8.	 Describe the three main reasons (mechanisms behind) insertions and deletions?
+
+9.	Why does misalignment during replication occur mainly in tandem repeat regions? 
+
+10.	Some diseases are caused by the phenomenon above, explain what happens. Why do these diseases involve mainly trinucleotide repeats? (..perhaps something to discuss at frågestund?). 
+
+11.	What factors affect the mutation rate for an organism? 
+
+12.	In which type of cells (in sexual species) does mutations occur that lead to evolution? Explain.
+
+
+Ch 	Föreläsning om "Människans historia och dess medicinska konsekvenser", se videoinspelningarna av föreläsningarna 5a och 8 i Media Gallery
+
+1. 	Beskriv ungefärligt människans genetiska relation till schimpanser och till de "människoarter" förutom modern människa som vi vet levde för cirka 50 000 år sedan.
+
+2. 	Ge en ungefärlig geografisk och tidsmässig beskrivning av den moderna människans ursprung, och spridning till de olika världsdelarna.
+
+3. 	Förklara på vilket sätt domesticeringen av djur och växter har haft viktig inverkan på mänsklighetens historia och dess medicinska hälsa.
+
+4. 	Förklara anledningen till den geografiska fördelningen av laktosintolerans bland ursprungsbefolkningar i olika delar av världen.
+
+5. 	Förklara på vilket sätt domesticeringen av växter och djur för cirka 10 000 år sedan kan ses som grundorsaken till dagens Covid-19-pandemi. 
+
+
+
+
+Ch 16
+
+1. 	Describe briefly: photoreactivation of pyridin dimers, dealkylation of alkylated bases, AP-repair of nucleotide without base, excision repair.
+
+2.	What happens at replication when the polymerase reaches a lesion blocking base pairing?
+
+3.	What kind of DNA damage is repaired by ”end-joining repair”?
+
+
+Ch 20 	Pretty important chapter, since it is deals with mechanisms giving "evolutionary changes". The most important thing with this chapter is to understand how genetic difference between parents and offspring emerge. You have to draw and ponder on mechanisms and results, especially question 9.
+
+1.	Explain how alteration between diploid and haploid phase of cells is a central concept for sexual species.
+
+2.	Explain what ploidy, and haploid and diploid, is. What is a zygote? Check Ch19 p.172-73!
+
+3.	What are sister chromatids? Check Ch 5 p.34-5 and Ch19 p.172-73!
+
+4.	 In a diploid cell the two sets of chromosomes are nonidentical and homologous. Explain what this means, and what's the reason it is like this.
+
+5.	What signifies a sexual species concerning chromosome number in its cells?
+
+6.	Two important things connected with meiosis are (i) 1:1 segregation of gene copies and (ii) recombination. Describe these two things and explain why they, each in their own way, are important phenomena.
+
+7.	What is a gamet?
+
+8.	Describe very briefly what happens to the chromosomes in meiosis I.
+
+9.	Draw, according to Fig 20.8, how a chromosome pair (one chromosome, one copy from each parent) after meiosis results in two different haploid genotypes if no recombination occurs, and four different haploid genotypes if a recombination occurs. Then draw the same for two chromosome pairs, showing all possible haploid genotypes that may result from this scenario. Assume 0 or 1 recombination per chromosome pair.
+
+10.	Approximately how many crossing-overs (=the number of chiasmata) per chromosome happens per meiosis?
+
+11.	What is: (i) germ line cell, (ii) somatic cell?
+
+
+Ch 21. 
+
+1.	 What types of "chromosomal abnormalities" are there?
+
+2.	What is the physical reason for most "chromosomal rearrangements"?
+
+3.	What is the difference of survival after a chromosome deletion if the deletion is in the middle or at the end of the chromosome? Why?
+
+4.	What is inversion, describe the consequences.
+
+5.	What is a "supergene"?
+
+6.	What is translocation, reciprocal and nonreciprocal?
+
+7.	 Why do chimpanzees have 24, and humans 23 chromosomes?
+
+8.	Explain the chromosomal reason for "familial Down syndrome" and what happens to gametes (and offspring) from 1421 carriers.
+
+9.	What is aneuploidy? And it's most common cause? Why, and how, does it give profound consequences?
+
+10.	Which aneuploidies in humans can survive into adult age? Why do these survive and not others?
+
+11.	What is polyploidy, how can it lead to speciation?
+
+12.	Define allopolyploid and autopolyploid.
+
+
+Ch 22 
+1.	What is characteristic for sexually reproducing organisms, concerning chromosome number (haploid/diploid)? Describe briefly a sexual cycle.
+
+2.	Probably, the first eukaryotes were haploid and had only mitosis. What evolutionary advantage did it give to become diploid and go through meiosis?
+
+3.	Describe virgin birth, and some other type of asexual reproduction. What is the result concerning genetic difference between "parents" and offspring?
+
+Ch 24
+1.	What types of mechanisms rule development?
+
+2.	Describe differential gene expression through alternative splicing of pre-mRNA. How common is it that a gene has several splice variants?
+
+3.	What is: chromosome diminuation, chromosome elimination, polyploidy, gene amplification?
+
+4.	What is allele switching, and how does trypanosoma use it as defence against the host organism's immune defence.
+
+5.	Describe how immunoglobulin variation is created in humans.
+
+Ch 25
+1.	Define "male" and "female". See glossary for short definition.
+
+2.	Describe a couple of ways that the sex of an individual is determined in different species: environment, chromosomes, genes.
+
+3.	Among animals the sex is often determined by the sex chromosomes. Explain about this system in humans, birds and grasshoppers.
+
+4.	What is the trigger for primary sex development in humans?
+
+5.	Why is the regulation of expression of the X-chromosome so important?
+
+6.	Describe briefly how dosage compensation of X chromosome for mammals is regulated. What happens in germline?
+
+7.	Describe why and in what way females of placental animals are "genetic mosaics".
+
+
+Ch 31 	Now we come to classical genetics! In this chapter you must take your time, and draw and ponder a lot, to learn the stuff! The videos of Föreläsning 7 and 9 are an important help!
+
+
+1.	Define genotype.
+
+2.	Define phenotype, what creates the phenotype?
+
+3.	Define allele.
+
+4.	Define wild type and mutant.
+
+5.	What is a genotype with (i) identical alleles, (ii) non-identical alleles, called?
+
+6.	What is a haplotype?
+
+7.	Draw, according to Fig. 31.1, and ponder on, how two gametes with different genotypes become a zygote with new genotype. Use the correct terminology. 
+
+8.	Define dominant and recessive allele. Use the correct terminology (e.g. A1/A2) when you answer.
+
+9.	Define null allele (amorph).
+
+10.	Fig. 31.2 is not perfect (See video of Föreläsning 7 for help). The two chromosomes should have been drawn so that it is clear they are different chromosomes (e.g. chromosome 2 and 3)... So, A and B are situated on different chromosomes. Draw and try to understand how genes A and B, with alleles A1 and A2, B1 and B2,, respectively, can be assorted in meiosis, so that you get four different gametes (A1B1, A1B2, A2B1, A2B2). Use also Fig 31.3.
+
+11.	Explain how, at meiosis: (i) Alleles segregate 1:1 so that each allele is present in 50% of gametes. (ii) Two genes on different chromosomes are sorted independently of each other to the gametes.
+
+12.	Show, according to Fig. 31.4, how the genes A and B (situated on the same chromosome!), with alleles A1, A2 and B1, B2, after recombination in the meiosis can give four different genotypes in the gametes (A1B1, A1B2, A2B1, A2B2). ...compare with question 10 where A and B are on different chromosomes!
+
+13.	 What is genetic linkage?
+
+14.	What is the probability that two genes recombine, and that they do not recombine, in meiosis?
+
+15.	Explain why 0<=r<=1/2.
+
+16.	What are the special cases r=0 and r=1/2 called? Explain what is the reason for these values.
+
+17.	What is the goal of a testcross?
+
+18.	Do the calculations in the square in middle of p. 295 (with the help of Fig. 31.6).
+
+
+19.	Describe Mendel's experiment Ex.1, according to the text and Fig 31.9!
+
+20.	Read through experiment Ex.2, understand but don't memorize..
+
+
+21.	Do ”solved problem” on p. 299. Skip page 298(last paragraph)-301.
+
+
+Ch 33 
+
+1.	Describe in what sense "pea wrinklage" is a multigenic trait.
+
+2.	Define pleiotropy. In which sense is the gene PHA pleiotropic?
+
+3.	Define epistasis, and exemplify with how a recessive secretor gene affects "blood group" in saliva. What consequences did this have in forensic investigations when using ABO-typing on evidence material (before DNA analyses were used)? This doesn't say in the book, can you think it out yourselves!
+
+4.	 What is a quantitative trait?
+
+5.	What is penetrance?
+
+6.	What is simple dominance? What is the most common reason? 
+
+7.	Explain recessive, dominant and codominant by explaining how the blood groups of the ABO system are expressed.
+
+8.	Describe quantitative dominance - no, complete, partial.
+
+9.	What is genetic background, what is its role in quantitative dominance?
+
+10.	What is genotype-environment interaction? ...and phenocopy?
+
+11.	Describe phenocopy for pku in the cases (i) PAH0/PAH0 and (ii) PAH+.
+
+12.	Ponder on the pedigrees on page 324-25. On the exam there might be a variant of Fig 33.1 or 33.2, for which you should explain type of inheritance and how you reasoned.
+
+
+Ch 34
+
+1.	What is a locus (plural loci)?
+
+2.	What is a crossover (crossing-over)?
+
+3.	Describe why a crossover is a random event, and that the chance of two loci recombining in meiosis increases with the distance between the loci. 
+
+4.	Explain in detail what a map unit and genetic distance are.
+
+5.	Explain with a figure why, if many recombinations occur between two loci, on average 50% of the chromosomes are recombined for the two loci. Look also at page 294 and study questions 31:15 and 31:16 for an alternative explanation.
+
+6.	What is the maximum frequency of recombinants in a population, for two loci situated on the same chromosome. Why? ...kind of same question as 34:5 but from another angle. Again, see also page 294 and study questions 31:15 and 31:16.
+
+7.	Solve problem (Fig 34.4 + ”Solved problem” on page 329), but without confidence interval. In other words: calculate r (genetic distance) for the loci ec and sn.
+
+8.	Why is it harder to map human genes than genes among most animals?
+
+9.	What is genetic distance, chromosomal distance, physical distance? ”Overview” on p.326 is good help.
+
+10.	How do these values (in point 9) relate? Why is the correlation not exact?
+
+
+Ch 35
+
+1.	Describe briefly three ways (sources) of finding mutations.
+
+2.	When inducing mutations by help of mutagens: where do the mutations end up, why?
+
+3.	Name a few ways of inducing mutations, and describe the result.
+
+4.	How can inbreeding be used for selecting mutations? Skip the whole page 340 except first two rows, thus skip "Transposons"!
+
+5.	You should know what Ames test is, approximately how it works, but without any details.
+
+
+Ch 36: 	read only about prions.
+
+1.	What are prions? Describe their characteristics. In what ways (mechanism and infection "method") can they lead to disease?
+
+
+Ch 37: 	This chapter is about how to calculate allele frequencies. Why do you do that? For example, to estimate the number of carriers of a recessive allele based on the frequency of people affected by the disease. Examples are given in ”Solved problem” on p. 362-3.
+
+1.	What is a population? (Ignore what Ringo writes about "asexual population is a clone".)
+
+2.	What is panmixia?
+
+3.	When is a population genetically static (i.e. allele frequencies unchanged over time)?
+
+4.	For gene A with alleles A1 and A2, p + q = 1, and (at static equilibrium) p2 + 2pq + q2 =1 (see Fig. 37.1). Calculate the two examples in Fig. 37.2 and check that it is correct (N.B. left figure is not to scale).
+
+5.	Drift, selection, mutation and migration give deviations from static equilibrium. We read about this in coming chapters.
+
+6.	What is positive and negative assortative mating? What is the consequence of positive assortative mating. Why? 
+
+7.	Calculate the two "Solved problem" on page 362 but ignore confidence intervals. 
+
+
+Ch 38
+
+1.	What is microevolution and macro evolution?
+
+2.	Mutations are the primary source for genetic variation but can alone, without other forces, not lead to large genetic changes in a population (eventually leading to evolution). Why is that?
+
+3.	Which effects does migration (gene flow) have on populations? How large (big or small) is the effect at "normal" migration sizes? What is the important evolutionary effect on two separate populations if there is (i) migration or (ii) no migration?
+
+4.	Inbreeding: I don't get the second sentence. Should be something like: At inbreeding, relatives mate more often than expected by chance.
+
+5.	What is inbreeding and outcrossing, and the inbreeding coefficient F?
+
+6.	What is the result of inbreeding concerning homozygote/heterozygote frequency (compared to what is expected from the CHW rule), and allele frequencies? 
+
+7.	Do "Solved problem" at page 369.
+
+8.	At inbreeding, what problems does the homozygote frequency lead to?
+
+9.	What is genetic drift?
+
+10.	What is population bottleneck and founder effect?
+
+
+Ch 39	OBS! För att få hjälp att förstå selektion: läs också "There Are Several Types  of Selection" i texten "ExtraEpigenetikSelektion" under Files i Canvas!
+
+1.	Define: Natural selection and sexual selection, especially what kind of traits they act on. (Ringo is not totally consistent, use the definitions at bottom of p. 374.).
+
+2.	Define fitness.
+
+3.	Explanation for Fig. 39.1 comes later in the chapter (directional, stabilizing, disruptive), and the figure is good to look at then.
+
+4.	Read through calculations at p. 375-6, understand but don't memorize.
+
+5.	On page 378 there is a reference to a table which doesn't exist...
+
+6.	Describe what directional selection is, describe one example from the course book. How fast, relatively, is elimination of a deleterious dominant allele, and a deleterious recessive allele? Why?
+
+7.	Explain in what way heterozygote advantage can explain why there is a relatively high frequency of carriers of Cystic fibrosis in western Europe.
+
+8.	Describe what stabilizing selection is, give one example from the course book.
+
+9.	Describe what disruptive selection is, give one example from the course book.
+
+10.	Describe what balancing selection is, give one example from the course book.
+
+
+Ch 40 	The important thing in this chapter: Most traits vary continuously (on a gliding scale) and are affected by many different genes and by environment. This is a quantitative trait. Quantitative trait loci (QTLs) can be mapped by finding out which parts of the genome are inherited together with the trait. This is often done by analysis of microsatellite markers and SNPs. 
+
+
+Ch 41
+
+1.	Define, in general terms, species.
+
+2.	What is speciation?
+
+3.	Describe the phenotypic and biological definition of "species". What is the main problem with the phenotypic definition?
+
+4.	Describe the two subgroups of biological speciation, and the five and three, respectively, sub-subgroups.
+
+5.	Which mechanism is the most prevalent cause of rapid speciation? How does it give very rapid speciation (see also question 9, and page 398-9)?
+
+6.	Why is gene flow an important aspect of speciation?
+
+7.	Define allopatric and sympatric. Which of these are mostly the cause of gradual speciation?
+
+8.	Describe allopatric speciation. How do the two new species develop, and why would gene flow oppose the speciation?
+
+9.	What is autopolyploidy and allopolyploidy?
+
+10.	How can selfish genetic elements cause speciation?
+
+11.	Discuss how events like mass extinction and the intervening "normal" time periods have led to extinctions and speciation during the history of earth.
+
+12.	Postzygotic RIB seems to develop fairly rapidly after speciation, why is that?
+
